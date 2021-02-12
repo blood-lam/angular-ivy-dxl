@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "angular-ivy-dxl"
+  "defaultProject": "angular-ivy-dxl",
+  "cli": {
+    "defaultCollection": "@angular-eslint/schematics"
+  }
 }
